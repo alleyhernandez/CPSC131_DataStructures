@@ -1,4 +1,4 @@
-CPSC 131 - Data Structures
+# CPSC 131 - Data Structures
 
 This repository contains my coursework, projects, and notes for CPSC 131: Data Structures, a course offered by the Computer Science Department at California State University. This course provides a comprehensive understanding of the fundamental data structures used in computer science.
 
