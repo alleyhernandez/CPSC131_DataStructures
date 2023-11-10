@@ -8,17 +8,20 @@
 4. "Computer_Science " 
 5. ['D',' A', ' T', 'A', 'S', 'T', 'R', 'U', 'C', 'T']   ****CORRECT****
 
+
 ### What is the use of subscript operator??
 1. To find out maximum of array 
 2. To reverse the array 
 3. To increment the array element 
 4. To write and read the array element   ****CORRECT****
 
+
 ### Which of the following is not a type of pointer ?
 1. Null Pointer 
 2. Dangling Pointer 
 3. Intelligent Pointer   ****CORRECT****
 4. Valid Pointer
+
 
 ### What will happen in the following C++ snippet?
 ```go
@@ -37,6 +40,7 @@ int main(){
 2. p now points to a 
 3. p now points to b   ****CORRECT****
 4. a is assigned to b 
+
 
 ### What is the output of following ?
 ```go
@@ -60,16 +64,20 @@ int a = 89, b = 19;
 3. Compilation Error 
 4. 0x7fff179aba98 0x7fff179aba94 
 
+
 ### Dangling Pointer points to deleted object.
 1. TRUE
 2. FALSE  ****CORRECT****
+
 
 ### Whenever a new object created by default it get stored in dynamic memory.
 1. TRUE
 2. FALSE ****CORRECT****
 
+
 ### A situation that occurs in computer programs when memory that is allocated and no longer needed is not properly deallocated.
 MEMORY LEAK  ****CORRECT****
+
 
 ### What is true about smart pointers? 
 1. Stores the address  ****CORRECT****
@@ -78,9 +86,11 @@ MEMORY LEAK  ****CORRECT****
 4. Automatically creates and deletes the memory  ****CORRECT****
 5. Stores the value 
 
+
 ### Constructors are the special member functions which has same name as class and gets involked automatically whenever object is created. 
 1. TRUE  ****CORRECT****
 2. FALSE 
+
 
 ### What is the output of follwing C++ code?
 ```go
@@ -98,3 +108,4 @@ std::cout<<arr[2]<<" "<<arr[4]<<" "<<arr[8];
 2. 12 34 0 
 3. 32 56 80 
 4. 24 78 Garbage value ****CORRECT****
+
