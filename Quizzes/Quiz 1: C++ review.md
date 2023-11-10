@@ -108,4 +108,3 @@ std::cout<<arr[2]<<" "<<arr[4]<<" "<<arr[8];
 2. 12 34 0 
 3. 32 56 80 
 4. 24 78 Garbage value ****CORRECT****
-
