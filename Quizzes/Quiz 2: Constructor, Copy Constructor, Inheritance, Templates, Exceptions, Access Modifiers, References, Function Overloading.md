@@ -43,4 +43,46 @@ Demo obj2 = obj1;
 4. Demo obj2 = copy(obj1); 
 
 
-### Which of the following is not a type of pointer ?
+### What are the properties of references??
+1. Cannot be reassigned ****CORRECT****
+2. Cannot be initialized to null ****CORRECT****
+3. Can be reassigned 
+4. Can be null or invalid 
+5. References must be initialized ****CORRECT****
+
+### The references that does not allow changes to referred object
+const references 
+const 
+Const Reference 
+Constant Reference 
+Const reference 
+const reference 
+Constant 
+
+### What does the following print for fun(5,2)?
+```go
+int fun(int x, int y){
+
+       if(x==0)
+
+          return y;
+
+       return fun(x-1,x*y)
+
+}
+```
+1. 54 
+2. 120 
+3. 10 
+4. 240 ****CORRECT****
+
+### What does following function does in general?
+```go
+int fun(int x, int y){
+   if y==0
+        return 0;
+
+return (x+fun(x,y-1));
+
+}
+```
